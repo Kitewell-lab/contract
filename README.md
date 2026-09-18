@@ -10,8 +10,8 @@ Sibling repos:
 
 | Layer | Repo |
 |-------|------|
-| Frontend | [ayyldCem-0/frontend](https://github.com/ayyldCem-0/frontend) |
-| Backend | [ayyldCem-0/backend](https://github.com/ayyldCem-0/backend) |
+| Frontend | [Kitewell-lab/frontend](https://github.com/Kitewell-lab/frontend) |
+| Backend | [Kitewell-lab/backend](https://github.com/Kitewell-lab/backend) |
 
 ## Methods
 
@@ -51,7 +51,7 @@ stellar contract deploy \
   --network testnet
 ```
 
-Set the contract id on the [backend](https://github.com/ayyldCem-0/backend):
+Set the contract id on the [backend](https://github.com/Kitewell-lab/backend):
 
 ```bash
 export KITEWELL_CONTRACT_ID=C...

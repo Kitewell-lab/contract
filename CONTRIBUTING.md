@@ -17,7 +17,7 @@ stellar contract build --manifest-path kitewell/Cargo.toml
 3. Include unit tests for storage / auth changes
 4. Keep Testnet as the documented deploy target
 
-Sibling layers: [frontend](https://github.com/ayyldCem-0/frontend), [backend](https://github.com/ayyldCem-0/backend).
+Sibling layers: [frontend](https://github.com/Kitewell-lab/frontend), [backend](https://github.com/Kitewell-lab/backend).
 
 ## Code of conduct
 
