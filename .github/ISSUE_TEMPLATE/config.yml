@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Drips Wave docs
+    url: https://docs.drips.network/wave/
+    about: How Stellar Wave issues, points, and maintainer flows work
+  - name: Helios Lab frontend
+    url: https://github.com/ayyldCem-0/frontend
+    about: Wallet lab UI
+  - name: Helios Lab backend
+    url: https://github.com/ayyldCem-0/backend
+    about: Horizon helpers API
