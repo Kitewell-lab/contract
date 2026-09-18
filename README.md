@@ -4,7 +4,7 @@
 
 # Kitewell — Soroban contract
 
-On-chain builder check-in for the Kitewell Testnet experience.
+On-chain builder check-in used by the Kitewell wallet.
 
 Sibling repos:
 
