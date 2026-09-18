@@ -3,9 +3,9 @@ contact_links:
   - name: Drips Wave docs
     url: https://docs.drips.network/wave/
     about: How Stellar Wave issues, points, and maintainer flows work
-  - name: Helios Lab frontend
+  - name: Kitewell frontend
     url: https://github.com/ayyldCem-0/frontend
     about: Wallet lab UI
-  - name: Helios Lab backend
+  - name: Kitewell backend
     url: https://github.com/ayyldCem-0/backend
     about: Horizon helpers API

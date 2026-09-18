@@ -1,4 +1,4 @@
-# Contributing to Helios Lab Contract
+# Contributing to Kitewell Contract
 
 Rust / Soroban builder check-in registry.
 
@@ -6,8 +6,8 @@ Rust / Soroban builder check-in registry.
 
 ```bash
 rustup target add wasm32v1-none
-cargo test --manifest-path helios_lab/Cargo.toml
-stellar contract build --manifest-path helios_lab/Cargo.toml
+cargo test --manifest-path kitewell/Cargo.toml
+stellar contract build --manifest-path kitewell/Cargo.toml
 ```
 
 ## PR guidelines
