@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="96" alt="Kitewell logo" />
+</p>
+
 # Kitewell — Soroban contract
 
 On-chain builder check-in for the Kitewell Testnet experience.
